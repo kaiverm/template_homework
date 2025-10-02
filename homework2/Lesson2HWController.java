@@ -1,4 +1,4 @@
-package school.xset.lesson1_What_is_Java.homework2.homework1;
+package school.xset.lesson1_What_is_Java.homework2;
 
 public class Lesson2HWController {
 
