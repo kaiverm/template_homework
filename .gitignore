@@ -1,0 +1,9 @@
+/.idea/vcs.xml
+!/homework1
+!/homework2
+*.class
+*.jar
+*.war
+*.log
+*.xml
+*.iml
